@@ -15,3 +15,6 @@ By following these best practices, developers can write cleaner, more consistent
 
 ## My thoughts on the Article (Kai-Hsuan Chan)
 This article provides practical and insightful advice on writing clean and maintainable code, emphasizing consistency, modularity, and effective documentation. I particularly appreciate how it highlights the balance between writing efficient code and ensuring long-term readability and maintainability.
+
+## More comments on the Article (Jonathan Gao) 
+I agree that the article is useful, particularly the part about writing effective comments. I will try to implement some of the pieces of advice such as adding comments when fixing bugs and incomplete implementations as well as thinking about how if I can't write a clear comment then I may need to look at the code. 
