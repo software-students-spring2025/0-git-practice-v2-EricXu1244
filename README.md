@@ -12,3 +12,6 @@ Writing maintainable code is one of the most important skills for software engin
 - How following **SOLID principles** can prevent bad design decisions.
 
 By following these best practices, developers can write cleaner, more consistent code that benefits teams in the long run.
+
+## My thoughts on the Article (Kai-Hsuan Chan)
+This article provides practical and insightful advice on writing clean and maintainable code, emphasizing consistency, modularity, and effective documentation. I particularly appreciate how it highlights the balance between writing efficient code and ensuring long-term readability and maintainability.
